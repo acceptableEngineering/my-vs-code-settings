@@ -24,5 +24,11 @@
     },
     "editor.quickSuggestionsDelay": 1,
     "window.restoreWindows": "all",
-    "window.newWindowDimensions": "maximized"
+    "window.newWindowDimensions": "maximized",
+    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.colorCustomizations": {
+        "editor.background": "#000",
+        "editor.selectionBackground": "#fff",
+        "editor.selectionHighlightBackground": "#777"
+    }
 }
