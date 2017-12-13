@@ -1,0 +1,28 @@
+{
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        80
+    ],
+    "workbench.colorTheme": "Material Syntax - Dark",
+    "extensions.ignoreRecommendations": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 12,
+    "php.validate.run": "onType",
+    "editor.trimAutoWhitespace": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    "editor.fontWeight": "400",
+    "editor.minimap.maxColumn": 80,
+    "editor.find.seedSearchStringFromSelection": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.quickSuggestionsDelay": 1,
+    "window.restoreWindows": "all",
+    "window.newWindowDimensions": "maximized"
+}
