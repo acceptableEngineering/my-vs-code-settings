@@ -4,16 +4,13 @@
     "editor.rulers": [
         80
     ],
-    "workbench.colorTheme": "Material Syntax - Dark",
+    "workbench.colorTheme": "Monokai",
     "extensions.ignoreRecommendations": true,
     "workbench.startupEditor": "newUntitledFile",
-    "editor.fontFamily": "Source Code Pro",
-    "editor.fontSize": 12,
     "php.validate.run": "onType",
     "editor.trimAutoWhitespace": true,
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 5000,
-    "editor.fontWeight": "400",
     "editor.minimap.maxColumn": 80,
     "editor.find.seedSearchStringFromSelection": false,
     "editor.multiCursorModifier": "ctrlCmd",
@@ -25,10 +22,16 @@
     "editor.quickSuggestionsDelay": 1,
     "window.restoreWindows": "all",
     "window.newWindowDimensions": "maximized",
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.colorCustomizations": {
         "editor.background": "#000",
         "editor.selectionBackground": "#fff",
         "editor.selectionHighlightBackground": "#777"
-    }
+    },
+    "files.associations": {
+        "*Jenkinsfile*": "declarative",
+        "*.inc": "php"
+    },
+    "terminal.integrated.scrollback": 50000,
+    "python.linting.pep8Enabled": true
 }
