@@ -4,8 +4,6 @@
     "editor.rulers": [
         80
     ],
-    "workbench.colorTheme": "Monokai",
-    "extensions.ignoreRecommendations": true,
     "workbench.startupEditor": "newUntitledFile",
     "php.validate.run": "onType",
     "editor.trimAutoWhitespace": true,
@@ -19,19 +17,22 @@
         "comments": false,
         "strings": false
     },
-    "editor.quickSuggestionsDelay": 1,
     "window.restoreWindows": "all",
     "window.newWindowDimensions": "maximized",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorCustomizations": {
-        "editor.background": "#000",
-        "editor.selectionBackground": "#fff",
-        "editor.selectionHighlightBackground": "#777"
-    },
     "files.associations": {
         "*Jenkinsfile*": "declarative",
-        "*.inc": "php"
+        "*.inc": "php",
+        "Terraform-Apply*": "declarative"
     },
     "terminal.integrated.scrollback": 50000,
-    "python.linting.pep8Enabled": true
+    "python.linting.pep8Enabled": true,
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Monokai",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#fff",
+        "terminal.background": "#000"
+    },
+    "editor.renderControlCharacters": false,
+    "breadcrumbs.enabled": true
 }
