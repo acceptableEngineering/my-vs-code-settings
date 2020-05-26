@@ -10,6 +10,7 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 5000,
     "editor.minimap.maxColumn": 80,
+    "editor.fontFamily": "Source Code Pro",
     "editor.find.seedSearchStringFromSelection": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.quickSuggestions": {
@@ -34,5 +35,7 @@
         "terminal.background": "#000"
     },
     "editor.renderControlCharacters": false,
-    "breadcrumbs.enabled": true
+    "breadcrumbs.enabled": true,
+    "terminal.integrated.fontFamily": "Source Code Pro",
+    "json.schemas": []
 }
